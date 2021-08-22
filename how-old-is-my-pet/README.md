@@ -15,7 +15,7 @@ This Siri shortcut will let you get the current age of your pet and have Siri (o
 ## Installing the shortcut
 
 You can get the latest version of the shortcut from here:
-[Add Shortcut from iCloud](https://www.icloud.com/shortcuts/6e0fae0ba5ad49c3ac9d2cb4c4e5b04a)
+[Add Shortcut from iCloud](https://www.icloud.com/shortcuts/c6bc098cd46e497fb3422fd7bd8c6a8e)
 
 ## Setup
 
